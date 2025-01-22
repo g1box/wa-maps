@@ -1252,7 +1252,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":4,
                      "name":"",
                      "objects":[
                             {
@@ -1282,7 +1281,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -1290,7 +1289,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1320,7 +1318,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }],
          "tilewidth":32
