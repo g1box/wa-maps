@@ -1249,20 +1249,78 @@
                 }, 
                 {
                  "id":832,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":4,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":9.20986009327115,
+                             "id":5,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collides",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32.4050632911392,
+                             "x":0,
+                             "y":0.0852764823451033
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
                  "id":833,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":9.20986,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collides",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32.4051,
+                             "x":-0.085294836775482,
+                             "y":0.170553011325783
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }],
          "tilewidth":32
