@@ -99,7 +99,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"floor",
+         "name":"floorGroup",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -120,7 +120,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"Others",
+         "name":"waGroup",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -278,7 +278,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":76,
+ "nextlayerid":77,
  "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
